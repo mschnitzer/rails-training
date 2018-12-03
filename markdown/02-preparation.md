@@ -20,7 +20,10 @@
 4. Grant privileges to this user:
 
    `grant all privileges on *.* to 'admin'@'localhost';`
-5. Exit from that shell:
+5. Flush privileges
+
+   `flush privileges;`
+6. Exit from that shell:
 
    `quit`
 
