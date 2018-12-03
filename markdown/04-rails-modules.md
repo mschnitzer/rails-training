@@ -32,12 +32,16 @@ new commits etc.)
 
 * Content rendering
 
+<img data-src="images/actionview-demo.png" height="500" />
+
 
 <!-- .slide: data-state="normal" id="rails-modules-activejob" data-timing="0" -->
 # ActiveJob
 
 * Asynchronous job scheduling
 * Queueing
+
+<img data-src="images/activejob-demo.png" height="300" />
 
 
 <!-- .slide: data-state="normal" id="rails-modules-activemodel" data-timing="0" -->
@@ -53,6 +57,8 @@ new commits etc.)
 * Easy handling of database records
 * Strong conventions for associations, validations, aggregations, migrations, and testing
 
+<img data-src="images/activerecord-demo.png" height="300" />
+
 
 <!-- .slide: data-state="normal" id="rails-modules-activestorage" data-timing="0" -->
 # ActiveStorage
@@ -60,6 +66,8 @@ new commits etc.)
 * File storage support
 * Manges local, AWS or Azure files
 * Relations to ActiveRecord models
+
+<img data-src="images/activestorage-demo.png" height="200" />
 
 
 <!-- .slide: data-state="normal" id="rails-modules-activesupport" data-timing="0" -->
