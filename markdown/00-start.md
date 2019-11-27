@@ -7,7 +7,7 @@
 <div class="row presenters">
     <div class="presenter presenter-1">
         <h3 class="name">Manuel Schnitzer</h3>
-        <h3 class="job-title">Maintenance Coordinator</h3>
+        <h3 class="job-title">Maintenance Release Coordinator</h3>
         <h3 class="email"><a href="mailto:mschnitzer@suse.com">mschnitzer@suse.com</a></h3>
     </div>
 </div>

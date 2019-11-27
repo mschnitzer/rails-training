@@ -2,7 +2,7 @@
 # Preparation: Packages
 
 1. Add project `devel:languages:ruby:extensions` to your repository list
-2. Install the packages: `ruby2.5-rubygem-rails-5.2 git apache2 mysql phpMyAdmin` and their dependencies
+2. Install the packages: `ruby2.5-rubygem-rails-6.0 git apache2 mysql phpMyAdmin` and their dependencies
 
 
 <!-- .slide: data-state="normal" id="preparation-setting-up-mysql" data-timing="0" -->
@@ -45,7 +45,7 @@
 1. Create a local git repository or one on GitHub/GitLab
 2. Create the Rails application:
 
-   `rails -d mysql forum`
+   `rails new -d mysql forum`
 3. Enable the `mini_racer` gem
 4. Edit `config/database.yml`
-5. Setup database with rake: `rake db:create db:setup`
+5. Setup database with rake: `rake db:setup`

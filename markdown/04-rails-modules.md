@@ -76,3 +76,8 @@ new commits etc.)
 * Toolkit of support libraries and Ruby core extensions
 * Rich support for multibyte strings, internationalization, time zones, and testing
 
+<!-- .slide: data-state="normal" id="rails-modules-activesupport" data-timing="0" -->
+# ActionText
+
+* A rich text editor with file upload support
+
